@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Vision and AI Agents**
 
-- 📫 How to reach me **jaybhesania@gmail.com**
+- 📫 You can reach me at **jaybhesania@gmail.com**
 
 - Fun Fact **I love to Code**
 
